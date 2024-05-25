@@ -1,10 +1,10 @@
-pagina web
-inicio.html
-css/
-estilos.css
-fotos mara/
-fond.jpg.jpeg
-js/
-script.js
-pages/
-amor.html
+pagina web/
+├── inicio.html
+├── css/
+│   └── estilos.css
+├── fotos mara/
+│   └── fondo.jpg
+├── js/
+│   └── script.js
+└── pages/
+    └── love.html
